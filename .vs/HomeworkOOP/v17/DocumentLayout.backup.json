@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|c:\\users\\user\\source\\repos\\homeworkoop\\homeworkoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|solutionrelative:homeworkoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|C:\\Users\\User\\source\\repos\\HomeworkOOP\\homeworkoop\\src\\memorystorageofkittens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|solutionrelative:homeworkoop\\src\\memorystorageofkittens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|C:\\Users\\User\\source\\repos\\HomeworkOOP\\homeworkoop\\src\\filestorageofkittens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|solutionrelative:homeworkoop\\src\\filestorageofkittens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|C:\\Users\\User\\source\\repos\\HomeworkOOP\\homeworkoop\\inc\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|solutionrelative:homeworkoop\\inc\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|C:\\Users\\User\\source\\repos\\HomeworkOOP\\homeworkoop\\inc\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|solutionrelative:homeworkoop\\inc\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|C:\\Users\\User\\source\\repos\\HomeworkOOP\\homeworkoop\\src\\taskmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|solutionrelative:homeworkoop\\src\\taskmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|C:\\Users\\User\\source\\repos\\HomeworkOOP\\homeworkoop\\src\\taskmodmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80907A38-4D49-4CF9-8AEB-4960F57E2A7F}|HomeworkOOP\\HomeworkOOP.csproj|solutionrelative:homeworkoop\\src\\taskmodmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskModManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\src\\TaskModManager.cs",
+              "RelativeDocumentMoniker": "HomeworkOOP\\src\\TaskModManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\src\\TaskModManager.cs",
+              "RelativeToolTip": "HomeworkOOP\\src\\TaskModManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:33:53.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskMod.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\src\\TaskMod.cs",
+              "RelativeDocumentMoniker": "HomeworkOOP\\src\\TaskMod.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\src\\TaskMod.cs",
+              "RelativeToolTip": "HomeworkOOP\\src\\TaskMod.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:28:28.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\inc\\ICommand.cs",
+              "RelativeDocumentMoniker": "HomeworkOOP\\inc\\ICommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\inc\\ICommand.cs",
+              "RelativeToolTip": "HomeworkOOP\\inc\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:22:43.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\inc\\IStorage.cs",
+              "RelativeDocumentMoniker": "HomeworkOOP\\inc\\IStorage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\inc\\IStorage.cs",
+              "RelativeToolTip": "HomeworkOOP\\inc\\IStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:19:51.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileStorageOfKittens.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\src\\FileStorageOfKittens.cs",
+              "RelativeDocumentMoniker": "HomeworkOOP\\src\\FileStorageOfKittens.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\src\\FileStorageOfKittens.cs",
+              "RelativeToolTip": "HomeworkOOP\\src\\FileStorageOfKittens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:18:05.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemoryStorageOfKittens.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\src\\MemoryStorageOfKittens.cs",
+              "RelativeDocumentMoniker": "HomeworkOOP\\src\\MemoryStorageOfKittens.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\src\\MemoryStorageOfKittens.cs",
+              "RelativeToolTip": "HomeworkOOP\\src\\MemoryStorageOfKittens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:16:40.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\Program.cs",
+              "RelativeDocumentMoniker": "HomeworkOOP\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeworkOOP\\HomeworkOOP\\Program.cs",
+              "RelativeToolTip": "HomeworkOOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:06:43.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
