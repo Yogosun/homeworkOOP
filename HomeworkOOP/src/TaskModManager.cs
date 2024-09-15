@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HomeworkOOP.src
 {
-    internal class TaskModManager
+    public class TaskModManager
     {
         private List<TaskMod> _tasks;
         private IStorage _storage;

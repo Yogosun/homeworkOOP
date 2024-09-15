@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace HomeworkOOP.src
+namespace HomeworkOOP.src.memorystorage
 {
     public class MemoryStorageOfKittens : IStorage
     {
